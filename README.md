@@ -57,7 +57,7 @@ Set up your environment, generate a dataset, and train an E(3)-equivariant model
 
 ```bash
 # 1. Set up environment
-git clone https://github.com/RylieWeaver/Chi-Geometry.git
+git clone https://github.com/ORNL/Chi-Geometry.git
 cd Chi-Geometry
 export PYTHONPATH=$(pwd)
 pip install --index-url https://test.pypi.org/simple/ --extra-index-url https://pypi.org/simple chi_geometry
